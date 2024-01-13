@@ -2,6 +2,8 @@
 
 Welcome to **JobCrafter**, your go-to mobile application for sculpting your professional destiny. JobCrafter is built with React Native Expo, providing a seamless and intuitive experience for job seekers.
 
+![alt text](https://raw.githubusercontent.com/whyaji/jobcrafter-react-native-expo/main/ss-jobcrafter.jpg)
+
 ## Features
 
 - **Explore Opportunities:** Navigate through a diverse range of career opportunities.
@@ -20,7 +22,7 @@ Welcome to **JobCrafter**, your go-to mobile application for sculpting your prof
 2. Install dependencies:
 
    ```bash
-   cd JobCrafter
+   cd jobcrafter-react-native-expo
    npm install
    ```
 
